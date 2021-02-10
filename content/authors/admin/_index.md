@@ -11,7 +11,7 @@ role: Post Doctoral Fellow at 'Space@VT' SuperDARN Lab
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Virginia Tech
-  url:https://vt.edu/
+  url: https://vt.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
