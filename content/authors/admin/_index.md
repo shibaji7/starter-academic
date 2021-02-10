@@ -6,7 +6,7 @@ title: Shibaji Chakraborty
 superuser: true
 
 # Role/position/tagline
-role: Post Doctoral Fellow at SpaceVT SuperDARN Lab
+role: Post Doctoral Fellow at 'Space@VT' SuperDARN Lab
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -49,12 +49,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=vY5uYewAAAAJ
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/shibaji7
+  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -67,7 +70,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "shibaji7@vt.edu"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
