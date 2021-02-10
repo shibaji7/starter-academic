@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shibaji Chakraborty
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Post Doctoral Fellow at 'Space@VT' SuperDARN Lab
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Virginia Tech
+  url:https://vt.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,15 +25,21 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical Engineering
+    institution: Virginia Tech
+    year: 2021
+  - course: MA in Statistics
+    institution: Virginia Tech
+    year: 2020
+  - course: Graduate Certification in Data Analytics
+    institution: Virginia Tech
+    year: 2019
+  - course: MS in Electrical Engineering
+    institution: Virginia Tech
+    year: 2017
+  - course: BTech in Electronics & Communication Engineering
+    institution: Institute of Engineering & Management
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,15 +49,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=vY5uYewAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/shibaji7
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -64,7 +67,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "shibaji7@vt.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
