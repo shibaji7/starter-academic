@@ -21,11 +21,11 @@ feature:
   icon_pack: fab
   name: Python
 - description: 100%
-  icon: analytics
+  icon: chart-line
   icon_pack: fas
   name: Statistics
 - description: 70%
-  icon: function
+  icon: superscript
   icon_pack: fas
   name: Data Assimilation, Modeling
 - description: 20%
