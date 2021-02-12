@@ -24,14 +24,18 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 70%
-  icon: superscript
+- description: 40%
+  icon: satellite-dish
   icon_pack: fas
-  name: Data Assimilation, Modeling
-- description: 20%
-  icon: r-project
-  icon_pack: fab
-  name: R
+  name: OTH Radar
+- description: 10%
+  icon: eye
+  icon_pack: fas
+  name: Machine Vision
+- description: 70%
+  icon: meteor
+  icon_pack: fas
+  name: Space Physics
 - description: 10%
   icon: eye
   icon_pack: fas
