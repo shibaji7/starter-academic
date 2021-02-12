@@ -6,7 +6,7 @@ title: Shibaji Chakraborty
 superuser: true
 
 # Role/position/tagline
-role: Post Doctoral Fellow at 'Space@VT' SuperDARN Lab
+role: PhD Candidate at 'Space@VT' SuperDARN Lab
 
 # Organizations/Affiliations to show in About widget
 organizations:
