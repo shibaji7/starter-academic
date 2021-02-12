@@ -28,10 +28,10 @@ feature:
   icon: satellite-dish
   icon_pack: fas
   name: OTH Radar
-- description: 10%
-  icon: eye
+- description: 50%
+  icon: superscript
   icon_pack: fas
-  name: Machine Vision
+  name: Modeling
 - description: 70%
   icon: meteor
   icon_pack: fas
