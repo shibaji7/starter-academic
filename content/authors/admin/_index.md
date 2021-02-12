@@ -63,6 +63,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/shibaji7
+- icon: orcid
+  icon_pack: fab
+  link: http://orcid.org/0000-0001-6792-0037
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shibaji-chakraborty-48bb4065/
