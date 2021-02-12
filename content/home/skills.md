@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: OTH Radar
 - description: 50%
-  icon: superscript
+  icon: subscript
   icon_pack: fas
   name: Modeling
 - description: 70%
