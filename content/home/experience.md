@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: GRA
-    company: GenCoin
-    company_url: ''
+    company: Virginia Tech
+    company_url: 'https://vt.edu/'
     location: Virginia, USA
     date_start: '2015-08-15'
     date_end: ''
@@ -36,14 +36,14 @@ experience:
         
   - title: IT Analyst
     company: TCS Innovation Labs
-    company_url: ''
+    company_url: 'https://www.tcs.com/research-and-innovation'
     location: Kolkata
     date_start: '2010-09-20'
     date_end: '2015-0-31'
     description: |2-
         Responsibilities include:
         
-        * Analysing radar data
-        * Modeling solar flare impacts 
-        * Deploying
+        * 
+        * 
+        * 
 ---
