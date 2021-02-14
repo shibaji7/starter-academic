@@ -17,15 +17,15 @@ image:
   caption: Illustration of solar flare-driven impacts 
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -35,4 +35,4 @@ url_video: ""
 slides: shortwavefadeout
 ---
 
-This study is about how energetic electromagnetic eruptions (solar flares) coming from the Sun alter the physical properties of the ionosphere which affects the over the horizon high-frequency (HF:3-30 MHz) radio communication channels, commonly known as short-wave fadeout (SWF). The study characterizes different facts and features of SWF seen in daytime observations of the SuperDARN HF radar (a monostatic HF transceiver system, which simulates a two-way HF communication link) during different solar flare events. The article also demonstrates how the physical location of HF transmitter/receiver, HF transmitter frequency, and intensity of solar flare impacts SWF.
+This study is about how energetic electromagnetic eruptions (solar flares) coming from the Sun alter the physical properties of the ionosphere which affects the over the horizon high-frequency (HF:3-30 MHz) radio communication channels, commonly known as short-wave fadeout (SWF). The study characterizes different facts and features of SWF seen in daytime observations of the SuperDARN HF radar (a monostatic HF transceiver system, which simulates a two-way HF communication link) and riometers during different solar flare events. The article also demonstrates how the physical location of HF transmitter/receiver, HF transmitter frequency, and intensity of solar flare impacts SWF.
