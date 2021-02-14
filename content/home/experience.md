@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: GRA
-    company: Virginia Tech
-    company_url: 'https://vt.edu/'
+    company: SuperDARN, Space@VT
+    company_url: 'http://vt.superdarn.org/tiki-index.php'
     location: Virginia, USA
     date_start: '2015-08-15'
     date_end: ''
