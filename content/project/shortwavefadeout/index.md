@@ -1,5 +1,5 @@
 ---
-title: Shortwave Fadeout: SuperDARN
+title: Shortwave Fadeout
 summary: Solar flare impact on the ionoephere and HF propagation
 tags:
 - Solar Flare
@@ -30,7 +30,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: shortwavefadeout
+slides: [shortwavefadeout, riometers]
 ---
 
 This study is about how energetic electromagnetic eruptions (solar flares) coming from the Sun alter the physical properties of the ionosphere which affects the over the horizon high-frequency (HF:3-30 MHz) radio communication channels, commonly known as short-wave fadeout (SWF). The study characterizes different facts and features of SWF seen in daytime observations of the SuperDARN HF radar (a monostatic HF transceiver system, which simulates a two-way HF communication link) during different solar flare events. The article also demonstrates how the physical location of HF transmitter/receiver, HF transmitter frequency, and intensity of solar flare impacts SWF.
