@@ -34,6 +34,17 @@ experience:
         * Analysing radar data
         * Modeling solar flare impacts
         
+  - title: GTA
+    company: ECE, Virginia Tech
+    company_url: 'https://ece.vt.edu/'
+    location: Virginia, USA
+    date_start: '2015-08-15'
+    date_end: '2016-05-15'
+    description: |2-
+        Responsibilities include:
+        
+        * Instructor at ECE 3274 Lab: Design of amplifiers and other electronic systems to satisfy specifications. Bipolar and field-effect transistors, diodes integrated circuits and passive components are part of the hardware needed. Gain, bandwidth, feedback, stability are some of the design concepts needed.
+        
   - title: IT Analyst
     company: TCS Innovation Labs
     company_url: 'https://www.tcs.com/research-and-innovation'
