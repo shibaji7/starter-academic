@@ -39,7 +39,7 @@ experience:
     company_url: 'https://www.tcs.com/research-and-innovation'
     location: Kolkata
     date_start: '2010-09-20'
-    date_end: '2015-0-31'
+    date_end: '2015-07-03'
     description: |2-
         Responsibilities include:
         
