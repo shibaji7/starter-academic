@@ -1,10 +1,10 @@
 ---
-title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
-authors: []
-tags: []
+title: Characetrization of Shortwave Fadeout using SuperDARN Observations
+summary: Solar flare impact on the ionoephere and HF propagation
+authors: [Shibaji Chakraborty]
+tags: [Solar Flare, SWF, SuperDARN, Data Analytics]
 categories: []
-date: "2019-02-05T00:00:00Z"
+date: "2017-04-01T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
