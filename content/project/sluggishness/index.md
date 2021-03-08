@@ -1,6 +1,6 @@
 ---
 title: Ionospheric Sluggishness
-summary: Sluggishness can be understood as an inertial property of the ionosphere that manifests as a lag of the ionospheric response to a solar driver.
+summary: An inertial property of the ionosphere that manifests as a lag of the ionospheric response to a solar driver.
 tags:
 - Sluggishness
 - D-Region Chemistry (Negative & Cluster Ions)

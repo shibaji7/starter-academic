@@ -18,13 +18,13 @@ image:
   caption: Illustration of solar flare-driven impacts 
   focal_point: Smart
 
-#links:
+links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-#url_code: ""
-#url_pdf: ""
+url_code: "https://github.com/shibaji7/model.CODE_BASE"
+url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017RS006488"
 #url_slides: ""
 #url_video: ""
 
