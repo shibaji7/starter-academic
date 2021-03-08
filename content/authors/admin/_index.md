@@ -28,6 +28,7 @@ interests:
 - Machine vision
 - Data assimilation
 - Numerical modeling
+- Solar Physics
 - Astronomy
 
 # Education to show in About widget
