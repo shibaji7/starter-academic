@@ -1,14 +1,14 @@
 ---
 title: Ionospheric Sluggishness
-summary: 
+summary: Sluggishness can be understood as an inertial property of the ionosphere that manifests as a lag of the ionospheric response to a solar driver.
 tags:
 - Sluggishness
-- D-Region Chemistry
+- D-Region Chemistry (Negative & Cluster Ions)
 - SuperDARN
 - Riometer
 - Numerical Simulation
 - Solar Flare Effects
-date: "2020-04-01T00:00:00Z"
+date: "2020-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,9 +17,9 @@ image:
   caption: Illustration of solar flare-driven impacts 
   focal_point: Smart
 
-#links:
-#url_code: ""
-#url_pdf: ""
+links:
+url_code: "https://github.com/shibaji7/sd_rio_sluggishness"
+url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JA028813"
 #url_slides: ""
 #url_video: ""
 
