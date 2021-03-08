@@ -54,7 +54,6 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * 
-        * 
-        * 
+        * I also have a 4.75 years' work experience at Tata Consultancy Services Innovation Labs as IT Analyst.
+        * Developing softwares related to Home Energy Management System, Device Management System, automated user application deployment module, distributed task queue, Sensor data explorer (Cloud-based).
 ---
