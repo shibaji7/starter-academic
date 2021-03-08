@@ -1,3 +1,4 @@
+@@ -1,166 +0,0 @@
 ---
 title: Characetrization of Shortwave Fadeout using SuperDARN Observations
 summary: Solar flare impact on the ionoephere and HF propagation
