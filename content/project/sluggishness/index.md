@@ -14,7 +14,7 @@ date: "2020-02-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Illustration of solar flare-driven impacts 
+  caption: Example of ionospheric sluggishness 
   focal_point: Smart
 
 links:
