@@ -1,6 +1,6 @@
 ---
 title: Geomagnetic Index Forecast
-summary: 
+summary: Forecasting geomagnetic index by machine learing / neural nets.
 tags:
 - Dst
 - Geomagnetic Storm
