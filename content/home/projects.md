@@ -29,6 +29,13 @@ content:
     tag: '*'
   - name: SWF
     tag: SWF
+  - name: SuperDARN
+    tag: SuperDARN
+  - name: Riometer
+    tag: Riometer
+  - name: ML
+    tag: Deep Learning
+    
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
