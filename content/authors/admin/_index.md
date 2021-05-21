@@ -6,7 +6,7 @@ title: Shibaji Chakraborty
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate at 'Space@VT' SuperDARN Lab
+role: Postdoc at 'Space@VT' SuperDARN Lab
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -85,6 +85,6 @@ email: "shibaji7@vt.edu"
 highlight_name: true
 ---
 
-Shibaji Chakraborty is a graduate research assistant at Virginia Tech working under the supervision of Dr. Joseph Baker and Dr. J. Michael Ruohoniemi in the SuperDARN HF radar group. His study is related to effects and impacts of Space Weather on HF propagation using SuperDARN. The study is mainly focused on effects and impacts of solar flare driven Shortwave-Faceout and aims to provide a probabilistic now-cast of ionospheric HF propagation conditions using semi-empirical and data-based models during during solar flares. Tools and Software used for research: Python, MATLAB, Mathematica, Word, Latex, Overleaf, DavitPy (Specific to SuperDARN), and SQLite.
+Shibaji Chakraborty is a Postdoc at Virginia Tech working under the supervision of Dr. Joseph Baker and Dr. J. Michael Ruohoniemi in the SuperDARN HF radar group. His study is related to effects and impacts of Space Weather on HF propagation using SuperDARN. The study is mainly focused on effects and impacts of solar flare driven Shortwave-Faceout and aims to provide a probabilistic now-cast of ionospheric HF propagation conditions using semi-empirical and data-based models during during solar flares. Tools and Software used for research: Python, MATLAB, Mathematica, Word, Latex, Overleaf, DavitPy (Specific to SuperDARN), and SQLite.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
